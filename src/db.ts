@@ -19,5 +19,4 @@ const pool = new Pool({
     ssl: { rejectUnauthorized: false } /* recomendation STACK OVERFLOW https://stackoverflow.com/questions/63009221/at-error-code-h12-desc-request-timeout-in-node-js-how-to-deal-with-it */
 });
 
-
 module.exports = pool;
