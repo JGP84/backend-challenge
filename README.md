@@ -4,8 +4,7 @@ This project has been made possible by many programmers who have shared their kn
 
 Thanks to: 
 
-The Stoic Programmers ( youtube channel)
-Learn the PERN stack by building a Todo List:
+The Stoic Programmers ( youtube channel):
 
 https://www.youtube.com/watch?v=5vF0FGfa0RQ&t=119s
 
