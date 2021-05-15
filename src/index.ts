@@ -5,7 +5,6 @@ const app: Application = express();
 
 const pool = require("./db");
 
-
 const path = require("path");
 const PORT = process.env.PORT || 5000;
 
